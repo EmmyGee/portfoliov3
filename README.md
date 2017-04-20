@@ -8,9 +8,9 @@ Introduction
 -
 My biggest inspiration for the latest iteration of my portfolio was actually the recent Instagram style update. The gradients, the rounded buttons and clean white spaces with a dark grey font.
 
-The other major considerations I had was that I wanted to design the entire website mobile first so that it would be far easier to scale going up to higher resolutions. To do that I followed <a href="http://bradfrost.com/blog/post/atomic-web-design/">Atomic Web Design Methodology</a> which allows me a good amount of flexibility when re-arranging my website for different resolutions/break-points.
+The other major considerations were that I wanted to design the entire website mobile first so that it had a fluid scalability going on varying resolutions. To do that I followed <a href="http://bradfrost.com/blog/post/atomic-web-design/">Atomic Web Design Methodology</a> which allowed me a great amount of flexibility when re-arranging my website for different resolutions/break-points.
 
-Initially proto-typed on paper I organised the User Journey through a usability flow chart. This included exploring; how I wanted the direct mobile resolutions to animate and work, which features I wanted to move around using Atomic design whilst keeping in mind I would keep it all in a 960px grid.
+Initially proto-typed on paper I organised the user journey through a usability flow chart. This included exploring; how I wanted the direct mobile resolutions to animate and work, which features I wanted to move around using Atomic design whilst keeping in mind I would keep it all in a 960px grid.
 
 Once I had planned it on paper I began to prototype a low fidelity wireframe on Balsamiq. I then produced a higher fidelity wireframe on Sketch. After making changes based off the wireframes and feedback I produced the website in Atom.
 
